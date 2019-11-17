@@ -33,3 +33,8 @@ $ python3 -m virtualenv -p `which python3` env
 $ source ./env/bin/activate
 $ python3 -m pip install --upgrade -r requirements.txt
 ```
+
+## Run notebooks
+```
+$ jupyter notebook
+```
