@@ -1,8 +1,8 @@
 # How to use this repo
 
 ```
-git clone https://github.com/podolskipio/sus.git
-cd sus/
+git clone https://github.com/podolskipio/ML_notebooks.git
+cd ML_notebooks/
 ```
 
 ## Conda
