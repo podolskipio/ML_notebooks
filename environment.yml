@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+dependencies:
+  ##### Core scientific packages
+  - python >=3.0
+  - jupyter==1.0.0
+  - pip
+  - matplotlib==3.0.3
+  - numpy==1.16.2
+  - pandas==0.24.1
+  - scipy==1.2.1
+
+  ##### Machine Learning packages
+  - scikit-learn==0.20.3
+  - xgboost==0.82
+
+name: sus_notebooks
